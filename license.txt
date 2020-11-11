@@ -175,5 +175,5 @@
 testing the activity.
 retesting again
 again testing the file.
-
+goinf=g for auto build
 	END OF TERMS AND CONDITIONS
