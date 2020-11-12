@@ -174,4 +174,5 @@
       of your accepting any such warranty or additional liability.
 again checking auto build
 writting something
+successfully checked the operation
 	END OF TERMS AND CONDITIONS
