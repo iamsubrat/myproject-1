@@ -172,10 +172,5 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
-testing the activity.
-retesting again
-again testing the file.
-goinf=g for auto build
 again checking auto build
-webhook url
 	END OF TERMS AND CONDITIONS
